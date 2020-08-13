@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  background-color: rgb(37, 36, 87);
+  color: #fff;
+  text-align: center;
+  margin-top: 100px;
+  text-align: center;
+}
+h1 {
+  color: #fff;
+  text-align: center;
+  margin: 100px 50px 50px;
+}
